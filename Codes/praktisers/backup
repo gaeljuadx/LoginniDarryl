@@ -1,0 +1,36 @@
+.iphone{
+    position: relative;
+    left: 600px;
+    top: -500px;
+}
+.appleS{
+    position: relative;
+    left: 425px;
+    top: -450px;
+}
+.androidP{
+    position: relative;
+    left: 480px;
+    top: -510px;
+}
+.googlePS{
+    position: relative;
+    left: 330px;
+    top: -450px;
+}
+
+.text{
+    font-family: sans-serif;
+    font-weight: 50;
+    font-size: 16px;
+}
+.ani{
+    color: #dd4b39;
+    position: relative;
+    left: 1000px;
+}
+
+.motto{
+    font-size: 25px;
+    font-weight: lighter;
+}
